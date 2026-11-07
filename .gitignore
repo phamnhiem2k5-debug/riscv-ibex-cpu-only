@@ -1,0 +1,20 @@
+# Vivado generated output
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+xsim.dir/
+*.wdb
+*.wlf
+*.dcp
+*.bit
+*.jou
+*.log
+*.pb
+*.rpx
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# CPU packaging script creates these
+models/IBEX_CPU_ONLY_FROM_CPU_PURE_2026-11-05/work/
